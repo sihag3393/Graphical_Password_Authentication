@@ -1,4 +1,4 @@
-<h1> Graphical Password Authentication </h1>
+<h1> Graphical Password Authentication Using Cryptography </h1>
 <p>Unique and Secure way of entering password</p>
 
 <h2>Screen Shots</h2>
